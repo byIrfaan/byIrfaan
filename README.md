@@ -20,31 +20,63 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 
 ## 🚀 Featured Projects & Impact
 
-### 🏃 [Endurance-OS] Half-Marathon Performance Dashboard
-*An automated training architect and tracking ecosystem.*
+<details open>
+<summary><b>🏃 [Endurance-OS] Half-Marathon Performance Dashboard</b></summary>
+<br>
 
-##### 📌 The Problem
-Standard running apps often hide behind paywalls and lack the flexibility for custom plan adjustments and high-density data visualization required for structured endurance training. I needed a 0-to-1 solution that acted as both a coach (the plan) and a scribe (the log).
+> *An automated training architect and tracking ecosystem designed to bridge the gap between static plans and dynamic performance tracking.*
 
-##### 🛠️ Technical Implementation
-*   **The Architect:** Built using Claude to engineer the logic for a 30-week half-marathon progression.
-*   **The UI/UX:** Developed a visually appealing, responsive dashboard featuring a real-time race countdown and dynamic progress bars.
-*   **Data Strategy:** Implemented structured logging for mileage, run types (Interval, Tempo, Long), and subjective recovery metrics.
+#### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Claude AI](https://img.shields.io/badge/Claude%20AI-Project%20Partner-7541d1?style=for-the-badge)
 
-##### 📈 Business & Personal Impact
-*   **Centralized Truth:** Eliminated the need for multiple apps by consolidating planning and tracking.
-*   **Precision Training:** Ensured 100% adherence to progressive overload principles through automated volume tracking.
-*   **Process Excellence:** Created a repeatable framework that can be pivoted for any distance (5K to Ultra).
+**📌 The Problem:** Standard running apps often lack the flexibility for custom plan adjustments and high-density data visualization. I needed a **0-to-1 solution** that acted as both a coach (the plan) and a scribe (the log).
 
-### 📊 [HR Compliance Audit Framework]
-Developed a high-priority manual audit system for tracking HR compliance training. 
-* **Impact:** Streamlined data collection from HRBPs and automated the identification of overdue COI and Block Leave statuses.
-* **Key Skills:** Data Governance, Stakeholder Coordination, Excel Automation.
+**🏗️ Technical Implementation:**
+* **The Architect:** Engineered the logic for a **30-week** half-marathon progression.
+* **The UI/UX:** Developed a high-fidelity, responsive dashboard featuring a real-time race countdown and dynamic progress bars.
+* **Data Strategy:** Implemented structured logging for mileage and subjective recovery metrics.
 
-### 📋 [Total Rewards & Insurance Info-Pack]
-Created a "consulting-grade" medical insurance resource for HR Business Partners.
-* **Impact:** Simplified complex policy jargon into high-information density visual decks to reduce internal query volume.
+**📊 Business & Personal Impact:**
+* **Centralized Truth:** Consolidated planning and tracking into a single source.
+* **Precision Training:** Ensured 100% adherence to progressive overload principles.
+</details>
+
+<br>
+
+<details>
+<summary><b>🗓️ [NexGen] Universal Leave Logic & Calculator</b></summary>
+<br>
+
+> *A scalable, automated engine built to replace manual leave liability calculations for 15,000+ employees across diverse contract types and exit scenarios.*
+
+#### 🛠️ Tech Stack
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Logic](https://img.shields.io/badge/Logic-Complex_Conditionals-orange?style=for-the-badge) ![Claude AI](https://img.shields.io/badge/Claude%20AI-Project%20Partner-7541d1?style=for-the-badge)
+
+**📌 The Problem:** Existing infrastructure was limited to single-period calculations for exiting employees only, forcing the Rewards team to manually audit leave balances (~50+ hours of lost productivity annually).
+
+**🏗️ Technical Implementation:**
+* **Universal Architecture:** Engineered a self-help interface covering all employee types and 10+ exit/leave scenarios.
+* **Multi-Period Processing:** Expanded logic to support **3 distinct calculation periods** simultaneously.
+* **Hardened Logic:** Resolved a legacy "Leap Year" calculation bug, ensuring mathematical accuracy **in perpetuity**.
+
+**📊 Business & Personal Impact:**
+* **Operational Efficiency:** Projected to save the Rewards team **1hr/week** and significantly more during peak cycles.
+* **Scalability:** Currently pending company-wide rollout as the standardized "Self-Help" tool for HRBPs and employees.
+</details>
+
+<br>
+
+<details>
+<summary><b>📄 [Total Rewards & Insurance Info-Pack]</b></summary>
+<br>
+
+#### 🛠️ Tech Stack
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Consulting](https://img.shields.io/badge/Style-MBB%20Standard-gold?style=for-the-badge)
+
+Created a **"consulting-grade"** medical insurance resource for HR Business Partners to clarify complex benefits policies.
+* **Impact:** Simplified complex policy jargon into high-information density visual decks, significantly reducing internal query volume.
 * **Key Skills:** Strategic Communication, Visual Design, Policy Analysis.
+</details>
 
 ---
 
