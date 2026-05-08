@@ -23,17 +23,15 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 ### 🏃 [Endurance-OS] Half-Marathon Performance Dashboard
 *An automated training architect and tracking ecosystem.*
 
-****
-
-#### 📌 The Problem
+##### 📌 The Problem
 Standard running apps often hide behind paywalls and lack the flexibility for custom plan adjustments and high-density data visualization required for structured endurance training. I needed a 0-to-1 solution that acted as both a coach (the plan) and a scribe (the log).
 
-#### 🛠️ Technical Implementation
+##### 🛠️ Technical Implementation
 *   **The Architect:** Built using Claude to engineer the logic for a 30-week half-marathon progression.
 *   **The UI/UX:** Developed a visually appealing, responsive dashboard featuring a real-time race countdown and dynamic progress bars.
 *   **Data Strategy:** Implemented structured logging for mileage, run types (Interval, Tempo, Long), and subjective recovery metrics.
 
-#### 📈 Business & Personal Impact
+##### 📈 Business & Personal Impact
 *   **Centralized Truth:** Eliminated the need for multiple apps by consolidating planning and tracking.
 *   **Precision Training:** Ensured 100% adherence to progressive overload principles through automated volume tracking.
 *   **Process Excellence:** Created a repeatable framework that can be pivoted for any distance (5K to Ultra).
