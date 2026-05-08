@@ -43,6 +43,8 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 
 <br>
 
+<details open>
+
 <summary><b>🗓️ [NexGen] Universal Leave Logic & Calculator</b></summary>
 <br>
 
@@ -50,8 +52,6 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 
 #### 🛠️ Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Logic](https://img.shields.io/badge/Logic-Complex_Conditionals-orange?style=for-the-badge) ![Claude AI](https://img.shields.io/badge/Claude%20AI-Project%20Partner-7541d1?style=for-the-badge)
-
-<details>
 
 **📌 The Problem:** Existing calculator was limited to single-period calculations for exiting employees only, forcing the Rewards team to manually audit leave balances (~80+ hours of lost productivity annually).
 
@@ -67,7 +67,7 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 
 <br>
 
-<details>
+<details open>
 <summary><b>📄 [Total Rewards & Insurance Info-Pack]</b></summary>
 <br>
 
