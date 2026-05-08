@@ -1,6 +1,6 @@
 # Hi, I'm Irfaan 👋
 
-### HR Undergraduate | Process Architect | Data-Driven Strategist
+### HR Undergraduate | AI Enthusiast | Process Architect | Data-Driven Strategist
 
 I specialise in the intersection of **Human Capital and Data-Led Compensation & Benefits Analytics**. With a background in Executive Search and a passion for 0-to-1 project building, I focus on transforming complex organizational challenges into structured, scalable solutions. My latest passion project has been experimenting with AI Agents particularly with Claude Co-Work and Claude Code building projects.
 
