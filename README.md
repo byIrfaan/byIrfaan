@@ -11,6 +11,7 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **AI Tools** | Claude, ChatGPT, Gemini, Perplexity, GammaAI |
+| **Coding Languages** | Python |
 | **HR Excellence** | Total Rewards, Employee Benefits & Wellbeing, Executive Search, Talent Acquisition |
 | **Data & Analytics** | Advanced Excel (VBA/Power Query), Tableau |
 | **Strategic Ops** | SOP Development, Compliance Auditing, Process Automation |
@@ -21,7 +22,7 @@ I specialise in the intersection of **Human Capital and Data-Led Compensation & 
 ## 🚀 Featured Projects & Impact
 
 <details open>
-<summary><b>🏃 [Running Companion-OS] Half-Marathon Performance Dashboard</b></summary>
+<summary><b>🏃 <a href="https://github.com/byIrfaan/sub2-marathon">Running Companion-OS: Half-Marathon Performance Dashboard</a></b></summary>
 <br>
 
 > *An automated training architect and tracking ecosystem designed to bridge the gap between static plans and dynamic performance tracking.*
