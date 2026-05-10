@@ -90,7 +90,7 @@ Created a **"consulting-grade"** medical insurance resource for HR Business Part
 ---
 
 ## 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/muhammad-irfaan-562373196)
 * **Goal:** Currently applying for AI Roles & Strategic HR & HR Tech roles.
 
 ---
